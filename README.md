@@ -9,4 +9,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 # Curso Digital : Git/Versionamento;
 ## Salvando Alterações no Git
 
-* Comando Git  push 
+* Comando Git  push.
