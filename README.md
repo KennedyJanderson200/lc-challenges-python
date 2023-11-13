@@ -10,3 +10,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## Salvando Alterações no Git
 
 * Comando Git  push.
+* Comando git pull
